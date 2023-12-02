@@ -1,0 +1,23 @@
+{
+  "name": "collection-shuffler",
+  "version": "0.0.1",
+  "description": "Easy shuffling of your collections with configurable options!",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "javascript",
+    "typescript",
+    "shuffle",
+    "array",
+    "collection",
+    "collections"
+  ],
+  "author": "Michael Crawford",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/web": "^0.0.124",
+    "mocha": "^10.2.0"
+  }
+}
